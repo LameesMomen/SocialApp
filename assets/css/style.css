@@ -42,6 +42,10 @@ body{
    margin: 400% 0;
 }
 
+.nav-mobile .links-content{
+    height: 50px;
+}
+
 
 .nav-bar .profile-pic img{
     width: 50px;
